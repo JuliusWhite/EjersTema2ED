@@ -1,5 +1,7 @@
 10. Investiga y averigua qué extensión tienen los archivos de código fuente de los
 siguientes lenguajes:
+
+
 ○ **bash:**
 Existe una convención común para usar la extensión .sh en los shell-scripts, como lo es bash u otros ejemplos como: ash o dash
 
