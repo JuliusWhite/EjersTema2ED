@@ -1,10 +1,10 @@
 7.Los paquetes a instalar en Ubuntu son los siguientes: python, php, nodejs, gcc, g++,
 openjdk-8-jdk, ruby, golang, rustc , clisp y nasm.
 
-○ python
+* python
 	*sudo apt-get install python3
 
-○ php
+* php
 	*sudo apt install php7.4-cli
 
 ○ javascript (nodejs)
