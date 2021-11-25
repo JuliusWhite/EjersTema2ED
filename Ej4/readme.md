@@ -1,4 +1,4 @@
-4. Explica cada uno de los siguientes conceptos e indica la relación entre ellos.
+## 4. Explica cada uno de los siguientes conceptos e indica la relación entre ellos.
 
 ○ código fuente - Se trata de uno o varios archivos escritos en lenguaje de programación que contienen las instrucciones para ejecutar un programa.
 

@@ -1,4 +1,4 @@
-10. Investiga y averigua qué extensión tienen los archivos de código fuente de los
+## 10. Investiga y averigua qué extensión tienen los archivos de código fuente de los
 siguientes lenguajes:
 
 
