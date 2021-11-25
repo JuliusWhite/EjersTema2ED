@@ -1,37 +1,35 @@
-6.Ejecuta el programa "Hola soy Julián Lago" en los siguientes lenguajes:
+7.Los paquetes a instalar en Ubuntu son los siguientes: python, php, nodejs, gcc, g++,
+openjdk-8-jdk, ruby, golang, rustc , clisp y nasm.
 
-○ bash
-./hola.sh
+python
+julius@julius-VirtualBox:~$ sudo apt-get install python3
 
-○ python
-./hola.py
+php
+    julius@julius-VirtualBox:~$ sudo apt install php7.4-cli
 
-○ php
-./hola.php
+nodejs
+    julius@julius-VirtualBox:~$ sudo apt install nodejs
 
-○ javascript (nodejs)
-./hola.js
+gcc
+    julius@julius-VirtualBox:~$ sudo apt install gcc
 
-○ c
-./hola 
+g++
+    julius@julius-VirtualBox:~$ sudo apt install gpp
 
-○ c++
-./hola
+openjdk-8-jdk
+    julius@julius-VirtualBox:~$ sudo apt install openjdk-8-jdk-headless   # version 8u292-b10-0ubuntu1~20.04
 
-○ java
-java hola
+ruby
+    julius@julius-VirtualBox:~$ sudo apt install ruby
 
-○ ruby
-./hola
+golang
+    sudo apt install gccgo-go   # version 2:1.13~1ubuntu2
 
-○ go
-./ hola
+rustc
+    julius@julius-VirtualBox:~$ sudo apt install rustc
 
-○ rust
-./ hola
+clisp
+    julius@julius-VirtualBox:~$ sudo apt install clisp
 
-○ clisp
-./hola.lisp
-
-○ ensamblador (nasm)
-./ hola
+nasm
+    julius@julius-VirtualBox:~$ sudo apt install nasm
