@@ -1,37 +1,37 @@
 6.Ejecuta el programa "Hola soy Julián Lago" en los siguientes lenguajes:
 
-○ bash
+○ **bash:**
 ./hola.sh
 
-○ python
+○ **python:**
 ./hola.py
 
-○ php
+○ **php:**
 ./hola.php
 
-○ javascript (nodejs)
+○ **javascript (nodejs):**
 ./hola.js
 
-○ c
+○ **c:**
 ./hola 
 
-○ c++
+○ **c++:**
 ./hola
 
-○ java
+○ **java:**
 java hola
 
-○ ruby
+○ **ruby:**
 ./hola
 
-○ go
+○ **go:**
 ./ hola
 
-○ rust
+○ **rust:**
 ./ hola
 
-○ clisp
+○ **clisp:**
 ./hola.lisp
 
-○ ensamblador (nasm)
+○ **ensamblador (nasm):**
 ./ hola
