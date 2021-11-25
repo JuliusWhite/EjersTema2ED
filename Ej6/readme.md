@@ -1,4 +1,4 @@
-6.Ejecuta el programa "Hola soy Julián Lago" en los siguientes lenguajes:
+## 6.Ejecuta el programa "Hola soy Julián Lago" en los siguientes lenguajes:
 
 ○ **bash:**
 ./hola.sh
