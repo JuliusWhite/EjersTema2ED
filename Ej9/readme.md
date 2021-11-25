@@ -25,7 +25,7 @@ Compilador: javac
 Intérprete: ruby
 
 ○ **golang:**
-Compilador: rustc
+Compilador: go  build
 
 ○ **rust:**
 Compilador: rustc
