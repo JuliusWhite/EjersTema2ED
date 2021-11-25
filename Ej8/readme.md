@@ -1,4 +1,4 @@
-8. Para cada uno de los lenguajes anteriores, indica el proceso realizado para
+## 8. Para cada uno de los lenguajes anteriores, indica el proceso realizado para
 conseguir ejecutar el código: ¿compilación o interpretación?
 
 ○ **bash:**
