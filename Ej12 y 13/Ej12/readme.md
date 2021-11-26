@@ -27,7 +27,7 @@ printf("%s\n", mensaje);
 printf("%d\n", suma (num1, num2) );
 return 0;
 }
-# Para obtener código objeto
+## Para obtener código objeto
 gcc -c main.c datos.c suma.c
 Deberemos obtener 3 archivos: main.o, suma.o y datos.o
 
