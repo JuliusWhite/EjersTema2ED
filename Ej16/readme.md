@@ -5,5 +5,5 @@ Una librería, cuando hablamos en términos de informática, es un una serie de 
 
 
 **Tipos**
-- Las bibliotecas estáticas.
+- Bibliotecas estáticas.
 - Bibliotecas dinámicas.
