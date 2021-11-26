@@ -32,7 +32,7 @@ Abrimos un archivo hola.cpp con el script y lo compilamos con el comando g++  -o
 ○ **rustc:**
     Abrimos un archivo hola.rs con las órdenes necesarias y lo compilamos usando rustc hola.rs. Lo ejecutamos con ./hola
 
-○ **clisp:**
+○ **lisp:**
     Ejecutamos el intérprete clisp y le introducimos el script
 
 ○ **nasm:**

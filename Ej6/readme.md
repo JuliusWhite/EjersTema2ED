@@ -30,7 +30,7 @@ java hola
 ○ **rust:**
 ./ hola
 
-○ **clisp:**
+○ **lisp:**
 ./hola.lisp
 
 ○ **ensamblador (nasm):**

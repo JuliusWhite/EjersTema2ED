@@ -27,7 +27,7 @@
 ○ **rust:**
 	sudo apt install rustc
 
-○ **clisp:**
+○ **lisp:**
 	sudo apt install clisp
 
 ○ **ensamblador (nasm):**
