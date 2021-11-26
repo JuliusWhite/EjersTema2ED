@@ -1,3 +1,1 @@
-## 22. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado
-y la generación del archivo ejecutable para código fuente en C con make. Haz uso
-de un buildfile.
+## 22. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo ejecutable para código fuente en C con make. Haz uso de un buildfile.
