@@ -3,7 +3,7 @@ bibliotecas dinámicas.
 
 **Ventajas:**
 
--El código queda más claro y menos extenso que si utilizaramos librerías estáticas
+- El código queda más claro y menos extenso que si utilizaramos librerías estáticas
 - Ahorran más memoria y reducen el intercambio de páginas.
 - El archivo .so es independiente del archivo .exe, siempre que la interfaz de salida permanezca igual (es decir, el nombre, los parámetros, el tipo de valor de retorno y la convención de llamada no cambien), reemplazar el archivo so no causará ningún impacto en el archivo .exe, mejorando así la capacidad de mantenimiento y la escalabilidad.
 - Los programas escritos en diferentes lenguajes de programación pueden llamar a la misma librería para que funcionen siempre que sigan la convención de llamada de función.
