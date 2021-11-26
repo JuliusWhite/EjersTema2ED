@@ -30,3 +30,5 @@ return 0;
 # Para obtener código objeto
 gcc -c main.c datos.c suma.c
 Deberemos obtener 3 archivos: main.o, suma.o y datos.o
+
+Como se puede apreciar el código objeto tiene una extensión .o.
