@@ -32,7 +32,7 @@ Compilador: go  build
 ○ **rust:**
 Compilador: rustc
 
-○ **clisp:**
+○ **lisp:**
 Intérprete: clisp
 
 ○ **ensamblador (nasm):**
