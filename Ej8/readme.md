@@ -1,5 +1,4 @@
-## 8. Para cada uno de los lenguajes anteriores, indica el proceso realizado para
-conseguir ejecutar el código: ¿compilación o interpretación?
+## 8. Para cada uno de los lenguajes anteriores, indica el proceso realizado para conseguir ejecutar el código: ¿compilación o interpretación?
 
 ○ **bash:**
 bash solo interpreta el script que nosotros le indicamos con el intérprete echo
