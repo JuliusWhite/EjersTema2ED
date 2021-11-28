@@ -20,7 +20,7 @@ Intérprete: node
 Compilador: g++
     
 ○ **Java:**
-Intérprete: openjdk-8-jdk
+Intérprete: openjdk-8-jdk,
 Compilador: javac
 
 ○ **ruby:**
