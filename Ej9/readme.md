@@ -19,7 +19,8 @@ Intérprete: node
 ○ **g++:**
 Compilador: g++
     
-○ **openjdk-8-jdk:**
+○ **Java:**
+Intérprete: openjdk-8-jdk
 Compilador: javac
 
 ○ **ruby:**
