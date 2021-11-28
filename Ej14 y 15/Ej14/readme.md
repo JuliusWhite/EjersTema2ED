@@ -75,3 +75,13 @@ std::string mensaje = "Hola a todos y todas";
 
   
   }
+  
+  
+## Para obtener código objeto
+  
+  
+g++ -c main.cpp datos.cpp suma.cpp
+
+  
+Deberemos obtener 3 archivos: main.o, suma.o y datos.o
+
