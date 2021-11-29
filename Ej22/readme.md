@@ -9,37 +9,37 @@ julius@julius-VirtualBox:~/EjersTema2ED/Ej18$ cp aritmetica.c aritmetica.o main 
 julius@julius-VirtualBox:~/EjersTema2ED/Ej22$ cat > Makefile
 ###################################################
 #
-#  EJEMPLO DE ARCHIVO 	Makefile    (cc0) jamj2000
+#EJEMPLO DE ARCHIVO 	Makefile    (cc0) jamj2000
 #
 ###################################################
 
 
-###### MACROS
+######MACROS
 
-# Compilador de C
+#Compilador de C
 CC     = gcc
 
-# Opciones del compilador, en este caso Optimización
+#Opciones del compilador, en este caso Optimización
 CFLAGS = -O
 
-# Directorio de instalación
+#Directorio de instalación
 PREFIX = /usr/local
 
-# Ejecutable resultante
+#Ejecutable resultante
 OUTPUT = programa
 
 
-###### REGLAS
+######REGLAS
 
-# .PHONY indica objetivos especiales, que no corresponden a archivos
+#.PHONY indica objetivos especiales, que no corresponden a archivos
 #
-# Las reglas tienen la forma
-# objetivo(target) : dependencias
-# <TAB>	comando1 
-# <TAB>	comando2
-# <TAB>	...
+#Las reglas tienen la forma
+#objetivo(target) : dependencias
+#<TAB>	comando1 
+#<TAB>	comando2
+#<TAB>	...
 #
-# La primera regla es la regla por defecto, puede invocarse simplemente con la orden make
+#La primera regla es la regla por defecto, puede invocarse simplemente con la orden make
 
 all: main.o  libaritmetica.so
 	$(CC) $(CFLAGS)  -Wl,-rpath=$(PREFIX)/lib  main.o  libaritmetica.so  -o  $(OUTPUT)
