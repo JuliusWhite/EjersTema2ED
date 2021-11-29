@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "aritmetica.h"
+#include "aritmetica.h"/*archivo de cabecera*/
 
 #define NUM1	5
 #define NUM2	2
