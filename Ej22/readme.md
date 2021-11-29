@@ -9,7 +9,7 @@ julius@julius-VirtualBox:~/EjersTema2ED/Ej18$ cp aritmetica.c aritmetica.o main 
 julius@julius-VirtualBox:~/EjersTema2ED/Ej22$ cat > Makefile
 ###################################################
 #
-#  EJEMPLO DE ARCHIVO 	Makefile    (cc0) jamj2000
+#EJEMPLO DE ARCHIVO 	Makefile    (cc0) jamj2000
 #
 ###################################################
 
